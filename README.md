@@ -1,7 +1,8 @@
 original repository for feedback mini app
+HEAD
 # Feedback Mini App
 
-A simple feedback form made by [Your Name] and [Partner's Name].
+A simple feedback form made by Ayushi and Aditi.
 
 Features:
 - HTML form
@@ -9,6 +10,7 @@ Features:
 - Screenshot of Firebase schema: (add link or paste image later)
 
 Live demo: (add later when deployed)
-=== TEMP LINE TO FORCE CONFLICT - STUDENT 2 ===
 
-=== CHANGE BY STUDENT 2 (this is you) ===
+=== CHANGE BY STUDENT 2 ===
+
+=== CHANGE BY STUDENT 1 ===
