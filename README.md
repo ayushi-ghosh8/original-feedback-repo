@@ -9,3 +9,4 @@ Features:
 - Screenshot of Firebase schema: (add link or paste image later)
 
 Live demo: (add later when deployed)
+=== TEMP LINE TO FORCE CONFLICT - STUDENT 2 ===
