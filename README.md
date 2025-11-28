@@ -10,3 +10,5 @@ Features:
 
 Live demo: (add later when deployed)
 === TEMP LINE TO FORCE CONFLICT - STUDENT 2 ===
+
+=== CHANGE BY STUDENT 2 (this is you) ===
