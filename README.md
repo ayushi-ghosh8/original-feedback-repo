@@ -1,5 +1,4 @@
 original repository for feedback mini app
-HEAD
 # Feedback Mini App
 
 A simple feedback form made by Ayushi and Aditi.
